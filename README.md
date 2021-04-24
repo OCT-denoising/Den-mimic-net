@@ -11,7 +11,7 @@ There are Sample training data in Data folder. Noisy images have been acquired f
 We used test images from various imaging devices (refer to Table I of refrenced paper[1]) to evaluate the proposed denoising method.  
 - More test images acquired from Heidelberg imaging system can be found for [near fovea here](https://hrabbani.site123.me/available-datasets/dataset-for-oct-classification-50-normal-48-amd-50-dme) and for [near ONH here](https://hrabbani.site123.me/available-datasets/onh-based-oct-of-7-healthy-and-7-glaucoma-data-captured-by-heidelberg-spectralis).
 - More test images acquired from TOPCON imaging system can be found for [near fovea here](https://misp.mui.ac.ir/fa/oct-topcon) and for [near ONH here](https://hrabbani.site123.me/available-datasets/onh-based-oct-of-7-healthy-and-7-glaucoma-data-captured-by-heidelberg-spectralis).
-- More test images acquired from custom-made Basel imaging system can be found for [near fovea here](https://misp.mui.ac.ir/).
+- More test images acquired from custom-made Basel imaging system can be found for [near fovea here](https://misp.mui.ac.ir/bank).
 
 # Citation
 If you find this work useful for your research, please cite our paper:
