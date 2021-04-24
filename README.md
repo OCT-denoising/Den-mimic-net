@@ -1,6 +1,10 @@
 # Introduction
 This project aims to denoise retinal optical coherenece tomography (OCT) images , using a lightweight mimic autoencoder.
 The method is detailed in ["A Lightweight Mimic Convolutional Auto-encoder for Denoising Retinal Optical Coherence Tomography Images"](https://ieeexplore.ieee.org/document/9399639)
+# Dependencies
+- Python 3.7+
+- Tensorflow-1.15.2
+- Keras
 # Citation
 If you find this work useful for your research, please cite our paper:
 - <a id="1">[1]</a>
