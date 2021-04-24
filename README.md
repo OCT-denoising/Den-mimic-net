@@ -12,6 +12,8 @@ We used test images from various imaging devices (refer to Table I of refrenced 
 - More test images acquired from Heidelberg imaging system can be found for [near fovea here](https://hrabbani.site123.me/available-datasets/dataset-for-oct-classification-50-normal-48-amd-50-dme) and for [near ONH here](https://hrabbani.site123.me/available-datasets/onh-based-oct-of-7-healthy-and-7-glaucoma-data-captured-by-heidelberg-spectralis).
 - More test images acquired from TOPCON imaging system can be found for [near fovea here](https://misp.mui.ac.ir/fa/oct-topcon) and for [near ONH here](https://hrabbani.site123.me/available-datasets/onh-based-oct-of-7-healthy-and-7-glaucoma-data-captured-by-heidelberg-spectralis).
 - More test images acquired from custom-made Basel imaging system can be found for [near fovea here](https://misp.mui.ac.ir/bank).
+# Network
+You can use or define your network in Den-mimic-net.py. This autoencoder can be trained even with less data using lighter structures. Two baseline network has been provided in Den-mimic-net.py to use for training. For each network, a test file has been provided using saved weights for more simplifications.
 
 # Citation
 If you find this work useful for your research, please cite our paper:
