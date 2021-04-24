@@ -1,6 +1,7 @@
 """
 
 @author: Mahnoosh Tajmirriahi
+The weights of autoencoder for this test file was trained by clean images of GT-SC-GMM method
 """
 
 from keras.preprocessing.image import ImageDataGenerator
