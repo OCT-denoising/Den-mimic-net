@@ -4,4 +4,4 @@ The method is detailed in ["A Lightweight Mimic Convolutional Auto-encoder for D
 # Citation
 If you find this work useful for your research, please cite our paper:
 - <a id="1">[1]</a>
-- M. Tajmirriahi, R. Kafieh, Z. Amini and H. Rabbani, "A Lightweight Mimic Convolutional Auto-encoder for Denoising Retinal Optical Coherence Tomography Images," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2021.3072109.
+ M. Tajmirriahi, R. Kafieh, Z. Amini and H. Rabbani, "A Lightweight Mimic Convolutional Auto-encoder for Denoising Retinal Optical Coherence Tomography Images," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2021.3072109.
